@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <title>Profil Saya - Whan Nafa</title>
+        <tittle>Profil Digital - [ Whan Nafa ]</tittle>
         <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -9,9 +9,10 @@
         <img src="foto-profil.jpg" alt="Foto profil saya">
         <h1>Whan Nafa Zivana Istifarin</h1>
         <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
-        <a href="https://www.instagram.com/whnafazvna">Kunjungi Instagram saya</a>
-        <button id="sapaButton">Sapa Saya!</button>
+        <ahref="https://www.instagram.com/whnafazvna">Kunjungi Instagram saya</a>
+        <button id="sapaButton">Sapa Saya!</button
     </div>
-<script src="script.js"></script>
+
+<scrip src="script.js"></script>
 </body>
-</html>
+</html>-

@@ -10,7 +10,7 @@
         <h1>Whan Nafa Zivana Istifarin</h1>
         <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
         <a href="https://www.instagram.com/whnafazvna" target="_blank">Kunjungi Instagram saya</a> 
-        <button id="sapaButton">Sapa Saya!</button> <!-- Perbaikan: tag button belum ditutup -->
+        <button id="sapaButton">Sapa Saya!</button> 
     </div>
 
     <script src="script.js"></script> 

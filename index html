@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <tittle>Profil Digital - [ Whan Nafa ]</tittle>
-        <link rel="stylesheet" href="style.css">
+    <title>Profil Digital - [Whan Nafa]</title> 
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-        <div class="kartu-profil">
+    <div class="kartu-profil">
         <img src="foto-profil.jpg" alt="Foto profil saya">
         <h1>Whan Nafa Zivana Istifarin</h1>
         <p>Siswa SMA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
-        <ahref="https://www.instagram.com/whnafazvna">Kunjungi Instagram saya</a>
-        <button id="sapaButton">Sapa Saya!</button
+        <a href="https://www.instagram.com/whnafazvna" target="_blank">Kunjungi Instagram saya</a> 
+        <button id="sapaButton">Sapa Saya!</button> <!-- Perbaikan: tag button belum ditutup -->
     </div>
 
-<scrip src="script.js"></script>
+    <script src="script.js"></script> 
 </body>
-</html>-
+</html>
+
